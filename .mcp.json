@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "xcloud": {
+      "type": "http",
+      "url": "https://app.xcloud.host/mcp"
+    }
+  }
+}
